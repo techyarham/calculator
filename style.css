@@ -1,0 +1,41 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+.container{
+    height: 50vw;
+    width: 80%;
+    background-color: cornflowerblue;
+    border-radius: 50px;
+    padding: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+button{
+    width: 50px;
+    padding: 1%;
+}
+input{
+    width: 70%;
+    border-radius: 20px;
+    padding: 2%;
+    
+}
+.para{
+    background-color: white;
+    width: 20vw;
+    height: 30px;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    margin-bottom: 5%;
+    justify-content: center;
+
+}
